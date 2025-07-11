@@ -20,8 +20,6 @@
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"></a>
 </p>
 
-<details align="center">
-  <summary><samp>More about me</samp></summary>
   <br>
   <p align="center">Connect with me:</p>
   <p align="center">
@@ -32,7 +30,6 @@
       <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white">
     </a>
   </p>
-</details>
 
 
 
