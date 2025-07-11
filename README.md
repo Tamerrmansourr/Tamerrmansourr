@@ -1,12 +1,9 @@
 <!-- https://github.com/TamerMansour -->
 <!-- تم التحديث في يوليو 2025 -->
 
-<!-- Profile Views Counter -->
-![Profile views](https://gpvc.arturio.dev/TamerMansour?v=3)
-
 <!-- Title -->
 <h3 align="center">
-        <samp>&gt; مرحبًا، أنا
+        <samp>&gt; Hi there
                 <b><a target="_blank" href="https://github.com/TamerMansour">Tamer Mansour</a></b>
         </samp>
 </h3>
