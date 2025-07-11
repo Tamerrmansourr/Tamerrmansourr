@@ -34,9 +34,7 @@
   </p>
 </details>
 
-<p align="center">
-  <samp>════ ⋆★⋆ ════<br>"Code with passion. Learn with purpose. 🚀"</samp>
-</p>
+
 
 ---
 
