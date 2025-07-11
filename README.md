@@ -1,7 +1,6 @@
 <!-- https://github.com/TamerMansour -->
 <!-- Updated July 2025 -->
 
-![Profile views](https://gpvc.arturio.dev/TamerMansour?v=3)
 
 <h3 align="center">
   <samp>&gt; Hello, I'm <b><a href="https://github.com/TamerMansour" target="_blank">Tamer Mansour</a></b></samp>
@@ -26,9 +25,6 @@
   <br>
   <p align="center">Connect with me:</p>
   <p align="center">
-    <a href="mailto:tamerr.mansourr@gmail.com" target="_blank">
-      <img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-    </a>
     <a href="https://www.linkedin.com/in/tamer-mansour/" target="_blank">
       <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
     </a>
@@ -44,7 +40,7 @@
 
 ---
 
-#### Featured Projects
+<!-- #### Featured Projects
 
 <p align="center">
   <a href="https://github.com/TamerMansour/chat-app-flutter">
@@ -63,3 +59,4 @@
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TamerMansour&repo=quiz-app-flutter&border_color=42A5F5&bg_color=0D1117&title_color=ffffff&text_color=8B949E&icon_color=42A5F5" />
   </a>
 </p>
+-->
