@@ -24,9 +24,6 @@
 <details align="center">
   <summary><samp>More about me</samp></summary>
   <br>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TamerMansour&show_icons=true&theme=radical" alt="Tamer Mansour's GitHub Stats" />
-  </p>
   <p align="center">Connect with me:</p>
   <p align="center">
     <a href="mailto:tamerr.mansourr@gmail.com" target="_blank">
