@@ -23,10 +23,10 @@
   <br>
   <p align="center">Connect with me:</p>
   <p align="center">
-    <a href="https://www.linkedin.com/in/tamer-mansour/" target="_blank">
+    <a href="www.linkedin.com/in/tamer-mansour-598302315" target="_blank">
       <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
     </a>
-    <a href="https://github.com/TamerMansour" target="_blank">
+    <a href="https://github.com/Tamerrmansourr" target="_blank">
       <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white">
     </a>
   </p>
